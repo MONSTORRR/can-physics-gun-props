@@ -1,2 +1,5 @@
 # prop-ents-red-color
-So I have recently gotten in to glua becuse my mates have inspired me to give a shot some things i make will be free and others wont like addons come of those will not be free.
+
+Once you have downloaded and put the prop_ents_red_color_change in your steam\steamapps\common\GarrysMod\garrysmod\lua
+
+What you wanna do is type this in console and then press enter and when you physics gun a prop or entitie it should change to green
